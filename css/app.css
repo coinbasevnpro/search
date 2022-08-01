@@ -1,0 +1,12 @@
+body{
+    background: url(../images/FPI.jpg);
+    background-size:cover;
+    background-position-y: -80px ;
+    font-size: 18px;
+}
+#wraper{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
